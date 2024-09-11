@@ -1,7 +1,7 @@
 app_name = "imsys"
 app_title = "Interview Management System"
 app_publisher = "Shivani Sahu"
-app_description = "This app is used to manage Interview Process."
+app_description = "This app is to manag"
 app_email = "shivanisahu23@navgurukul.org"
 app_license = "mit"
 # required_apps = []

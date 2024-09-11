@@ -1,6 +1,6 @@
 ### Interview Management System
 
-This app is used to manage Interview Process.
+This app is to manag
 
 ### Installation
 
