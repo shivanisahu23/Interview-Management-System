@@ -3,7 +3,7 @@ name = "imsys"
 authors = [
     { name = "Shivani Sahu", email = "shivanisahu23@navgurukul.org"}
 ]
-description = "This app is to manag"
+description = "This app is to manage Interview Process"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
